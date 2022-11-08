@@ -1,0 +1,11 @@
+main.ts
+.editorconfig
+.eslintignore
+.eslintrc
+.npmrc
+esbuild.config.mjs
+package.json
+package-lock.json
+tsconfig.json
+version-bump.mjs
+versions.json
