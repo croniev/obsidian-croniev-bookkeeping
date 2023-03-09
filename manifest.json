@@ -1,7 +1,7 @@
 {
-	"id": "obsidian-croniev-bookkeeping",
+	"id": "croniev-bookkeeping",
 	"name": "Croniev Bookkeeping",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minAppVersion": "0.12.0",
 	"description": "This is how I want to do my bookkeeping",
 	"author": "Croniev",
